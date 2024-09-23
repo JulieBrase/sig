@@ -9,6 +9,7 @@ class Character {
     }
 }
 
+
 class Team {
     constructor() {
         this.characters = [];
